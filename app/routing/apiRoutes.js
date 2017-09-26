@@ -1,4 +1,3 @@
-var express = require("express");
 var friendsArray = require("../data/friends.js");
 var bestMatch = 50;
 var friendIndex = 0;
